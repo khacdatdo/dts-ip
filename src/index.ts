@@ -50,5 +50,5 @@ async function main() {
     } catch (error) {
       console.error("[ERROR]", error.message);
     }
-  }, 60 * 100);
+  }, 60 * 1000);
 })();
