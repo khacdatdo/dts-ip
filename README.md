@@ -27,8 +27,8 @@ Tạo một file `domains.json` ở thư mục gốc của repo, nội dung 
         // optional -- có sử dụng tính năng Proxy của Cloudflare hay không?
         // mặc định là `false`
         "proxied": true
-    },
-    ...
+    }
+    // ...
 ]
 ```
 
