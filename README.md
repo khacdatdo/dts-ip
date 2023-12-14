@@ -15,7 +15,7 @@ CLOUDFLARE_API_KEY=token_here
 ```
 
 Tạo một file `domains.json` ở thư mục gốc của repo, nội dung của file có dạng như sau:
-```json
+```js
 [
     {
         // required -- top-level domain
